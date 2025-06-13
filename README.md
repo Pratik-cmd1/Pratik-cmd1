@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratik Gaikwad</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m **Data Analyst-Team Lead** at **Delhivery**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratik-cmd1](https://github.com/Pratik-cmd1)
 
-- 💬 Ask me about **Advance Excel , MYSQL , Python , Microsoft Power BI**
+- 💬 Ask me about **Advance Excel , MYSQL , Python , Microsoft Power BI, Machine Learning, Tableau**
 
 - 📫 How to reach me **pratikgaikwad6902@gmail.com**
 
